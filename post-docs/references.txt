@@ -1,0 +1,7 @@
+Bhat, S. N., Cosmadakis, S. S: The Complexity of
+Minimizing Wire Lengths in VLSI Layouts. Inf. Process.
+Lett. 25(4): 263-267 (1987).
+
+Moreover, in [6] Bhatt and Cosmadakis show that finding an embedding of a given tree in a
+grid, whose nodes have a maximum degree of four, is also NPcomplete. Thus, IS(G,Q) is NP-complete.
+
